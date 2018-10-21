@@ -1,0 +1,25 @@
+{
+  "default":"en",
+  "en":{
+    "appName":"Blinky Controller",
+    "onSwitch":"ON switch",
+    "changeSwitch":"Pattern change",
+    "brightnessPropSwitch":"Brightness",
+    "brightness":"Brightness",
+    "status":"Status",
+    "statusOff":"OFF",
+    "statusRun":"RUN",
+    "statusChange":"Pattern"
+  },
+  "de":{
+    "appName":"Blinky Controller",
+    "onSwitch":"EIN Schalter",
+    "changeSwitch":"Muster umschalten",
+    "brightnessPropSwitch":"Helligkeit",
+    "brightness":"Helligkeit",
+    "status":"Status",
+    "statusOff":"AUS",
+    "statusRun":"EIN",
+    "statusChange":"Muster"
+  }
+}
