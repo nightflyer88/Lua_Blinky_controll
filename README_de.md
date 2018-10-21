@@ -6,11 +6,11 @@ Das Blinkytape ist ein kleiner Controller, der die speziellen LEDs WS2812 ansteu
 
 ![extra1](https://raw.githubusercontent.com/nightflyer88/Lua_Blinky_controll/master/img/Extra1.jpg)
 
-Das Blinkytabe gibt es hier: https://blinkinlabs.com/blinkytape/
-Um die LED-Muster zu programmieren braucht man die PatternPaint Software: https://blinkinlabs.com/blinkytape/patternpaint/
-Damit man den Blinkytape Controller einfach per Sender steuern kann (Muster umschalten, Helligkeit einstellen), braucht es noch eine spezielle Firmware: https://github.com/nightflyer88/BlinkyTapeFirmware
+Das Blinkytabe gibt es [hier](https://blinkinlabs.com/blinkytape/). 
+Um die LED-Muster zu programmieren braucht man die [PatternPaint](https://blinkinlabs.com/blinkytape/patternpaint/) Software. 
+Damit man den Blinkytape Controller einfach per Sender steuern kann (Muster umschalten, Helligkeit einstellen), braucht es noch eine spezielle [Firmware](https://github.com/nightflyer88/BlinkyTapeFirmware).
 
-Weitere Infos und Baubericht gibt es hier: http://www.rc-network.de/forum/content.php/735-Nachtflugbeleuchtung-mit-BlinkyTape
+Weitere Infos und Baubericht gibt es [hier](http://www.rc-network.de/forum/content.php/735-Nachtflugbeleuchtung-mit-BlinkyTape).
 
 Die LUA-App ist eine komfortable Erweiterung, zum einfachen steuern der Helligkeit und zum umschalten der LED-Muster.  
 
